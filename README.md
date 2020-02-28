@@ -1,4 +1,4 @@
-# CampusCompetitionsAssistant1
+# CampusCompetitionsAssistant
 A simple Android Application
 ### Through front-end interaction to collect and publish complicated race information on campus
 ![image](https://github.com/NWPUWuHaiBo/CampusCompetitionsAssistant1/blob/master/1.jpg)
